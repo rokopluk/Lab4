@@ -5,6 +5,7 @@
     --planet-height: 100px;
     --planet-border-radius: 50%;
     --planet-color: #fcfcfc;
+    --planet-margin: 0 auto;
 }
 
 body {
@@ -46,52 +47,69 @@ header{
     height: 200px;
     border-radius: 50%;
     background-color: var(--planet-color);
+    margin: var(--planet-margin)
 }
 .mercury{
     width: var(--planet-width);
     height: var(--planet-height);
     border-radius: var(--planet-border-radius);
     background-color: var(--planet-color);
+    margin: var(--planet-margin)
+
 }
 .venus{
     width: var(--planet-width);
     height: var(--planet-height);
     border-radius: var(--planet-border-radius);
     background-color: var(--planet-color);
+    margin: var(--planet-margin)
+
 }
 .earth{
     width: var(--planet-width);
     height: var(--planet-height);
     border-radius: var(--planet-border-radius);
     background-color: var(--planet-color);
+    margin: var(--planet-margin)
+
 }
 .mars{
     width: var(--planet-width);
     height: var(--planet-height);
     border-radius: var(--planet-border-radius);
     background-color: var(--planet-color);
+    margin: var(--planet-margin)
+
 }
 .jupiter{
     width: var(--planet-width);
     height: var(--planet-height);
     border-radius: var(--planet-border-radius);
     background-color: var(--planet-color);
+    margin: var(--planet-margin)
+
 }
 .saturn{
     width: var(--planet-width);
     height: var(--planet-height);
     border-radius: var(--planet-border-radius);
     background-color: var(--planet-color);
+    margin: var(--planet-margin)
+
 }
 .uranus{
     width: var(--planet-width);
     height: var(--planet-height);
     border-radius: var(--planet-border-radius);
     background-color: var(--planet-color);
+    margin: var(--planet-margin)
+
 }
 .neptune{
     width: var(--planet-width);
     height: var(--planet-height);
     border-radius: var(--planet-border-radius);
     background-color: var(--planet-color);
+    margin: var(--planet-margin)
+
 }
